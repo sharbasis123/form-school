@@ -1,0 +1,154 @@
+body{
+    /* background-color: blueviolet; */
+}
+.school{
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 30px;
+  border-radius: 15px opx;
+  padding: 1px 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: antiquewhite;
+  background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+}
+.sclform{
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  padding-top: 40px;
+  border-radius: 15px;
+  background-color: #D9AFD9;
+background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+
+}
+.student{
+  font-size: 25px;
+}
+.stuname input{
+  width: 200px;
+  height: 30px;
+  border-radius: 5px;
+}
+.studentinp{
+  margin-left: 136px;
+}
+.studentlast{
+  margin-left: 20px;
+}
+.classapply{
+  margin-left: 15px;
+  width: 300px;
+  height: 33px;
+  border-radius: 5px;
+}
+.studentdate{
+  margin-left: 147px;
+  width: 117px;
+  height: 33px;
+  border-radius: 5px;
+}
+.parentinp{
+  width: 200px;
+  height: 30px;
+  margin-left: 66px;
+  border-radius: 5px;
+}
+.parentlast{
+  width: 200px;
+  height: 30px;
+  margin-left: 22px;
+  border-radius: 5px;
+}
+.addressinp{
+  width: 435px;
+  height: 38px;
+  margin-left: 131px;
+  border-radius: 5px;
+}
+.india{
+  width: 150px;
+  text-align: center;
+  height: 30px;
+  font-size: 25px;
+  margin-left: 305px;
+  border-radius: 5px;
+}
+.state{
+  width: 262px;
+  text-align: center;
+  height: 35px;
+  /* font-size: 25px; */
+  margin-left: 19px;
+  border-radius: 5px;
+}
+.city{
+  width: 197px;
+  text-align: center;
+  /* height: 30px; */
+  font-size: 25px;
+  margin-left: 305px;
+  border-radius: 5px;
+}
+.zip{
+  width: 207px;
+  text-align: center;
+  /* height: 30px; */
+  font-size: 25px;
+  margin-left: 21px;
+  border-radius: 5px;
+}
+.firstnum{
+  width: 65px;
+  text-align: center;
+  height: 30px;
+  font-size: 25px;
+  margin-left: 146px;
+  border-radius: 5px;
+}
+.phone{
+  width: 325px;
+  text-align: center;
+  height: 30px;
+  font-size: 25px;
+  margin-left: 32px;
+  border-radius: 5px;
+}
+.email{
+  width: 432px;
+  /* text-align: center; */
+  height: 30px;
+  /* font-size: 25px; */
+  margin-left: 238px;
+  border-radius: 5px;
+}
+.gender{
+  width: 432px;
+  text-align: center;
+  height: 30px;
+  font-size: 25px;
+  margin-left: 217px;
+  border-radius: 5px;
+}
+.last{
+  text-align: center;
+  
+}
+.submitbut{
+  width: 150px;
+  font-size: 25px;
+  padding: 4px 10px;
+  border-radius: 10px;
+}
+.resetbut{
+  margin-left: 62px;
+  width: 150px;
+  font-size: 25px;
+  padding: 4px 10px;
+  border-radius: 10px;
+}
